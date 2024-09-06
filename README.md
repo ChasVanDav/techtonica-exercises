@@ -1,1 +1,1 @@
-# JS-exercises
+# techtonica-exercises
